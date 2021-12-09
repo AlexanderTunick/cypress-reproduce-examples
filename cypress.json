@@ -1,0 +1,35 @@
+{
+    "env": {
+        "dashboard": {
+            "uiUrl": "https://brands.klickly-dev.com",
+            "apiUrl": "https://brands-api.klickly-dev.com",
+            "klicklyEmail": "na.roshchyna@gmail.com",
+            "klicklyPassword": "qwerty1234567"
+        },
+        "admin": {
+            "klicklyEmailAdmin": "klickly28@gmail.com",
+            "klicklyPasswordAdmin": "qwerty1234567"
+        },
+        "marketplace": {
+            "uiUrl": "https://marketplace.klickly-dev.com",
+            "apiUrl": "https://shop-api.klickly-dev.com",
+            "apiUrlPromotionService": "https://promotions-api.klickly-dev.com",
+            "checkoutUiUrl": "https://content.klickly-dev.com",
+            "checkoutApi": "https://consumer-api.klickly-dev.com",
+            "klicklyEmail": "na.roshchyna@gmail.com",
+            "klicklyPassword": "qwerty1234567",
+            "klicklyInvalidEmail":"email@email.email"
+        },
+        "shopify": {
+            "store": "1-nov-dev.myshopify.com"
+        },
+        "widget": {
+            "uiUrl": "https://widget.klickly-dev.com",
+            "apiUrl": "https://track-api.klickly-dev.com",
+            "cookies": "dev-klickly-shop-sid",
+            "fingerprintApiUrl": "https://fingerprint-api.klickly-dev.com"
+        }
+    },
+    "video": false,
+    "chromeWebSecurity": false
+}
