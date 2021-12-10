@@ -12,6 +12,5 @@ coverage/
 
 .npmrc
 .env.json
-.env-dev.json
-.env-rc.json
+
 mochawesome-report
